@@ -13,5 +13,3 @@ app.use('/api', router);
 app.listen(port, () => {
   console.log(`Server run on ${port}`);
 });
-
-// this is rofls
